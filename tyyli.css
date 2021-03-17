@@ -1,14 +1,25 @@
 body {
-    background-color: rgb(182, 142, 142);
-    background-color: 
+    background-image:url('bg.jpg');
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: indigo;
    
 }
 
-.punainen {color: #f00;}
-.musta {color:black; background-color: crimson;}
+.vaalea {color: rgb(15, 15, 15); background-color: blueviolet;}
+.musta {color:black; background-color: rgb(100, 148, 90);}
+.mainmenu {color:black;}
+.form {background-color: white;}
 
-#sininen {color: rgb(174, 228, 26);}
+#sininen {color: rgb(111, 70, 221);}
+
+
+#t01 {
+    width: 50%;
+    background-color: #f1f1c1;
+    border-spacing: 5px;
+    padding: 15px;
+    border: 1px solid black;
+  }
 
 
